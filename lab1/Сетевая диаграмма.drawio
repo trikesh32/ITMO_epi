@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" version="24.7.17">
+  <diagram id="stepik-network" name="PERT — Stepik">
+    <mxGraphModel dx="1500" dy="2440" grid="1" page="1" pageWidth="1500" pageHeight="2440">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="A01-A02" edge="1" parent="1" source="A01" target="A02" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A01-A03" edge="1" parent="1" source="A01" target="A03" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A02-A04" edge="1" parent="1" source="A02" target="A04" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A04-A05" edge="1" parent="1" source="A04" target="A05" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A05-A06" edge="1" parent="1" source="A05" target="A06" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A03-A06" edge="1" parent="1" source="A03" target="A06" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A05-A07" edge="1" parent="1" source="A05" target="A07" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A03-A07" edge="1" parent="1" source="A03" target="A07" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A07-A08" edge="1" parent="1" source="A07" target="A08" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A08-A09" edge="1" parent="1" source="A08" target="A09" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A09-A10" edge="1" parent="1" source="A09" target="A10" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A07-A11" edge="1" parent="1" source="A07" target="A11" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A03-A11" edge="1" parent="1" source="A03" target="A11" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A08-A12" edge="1" parent="1" source="A08" target="A12" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A11-A12" edge="1" parent="1" source="A11" target="A12" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A05-A13" edge="1" parent="1" source="A05" target="A13" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A07-A13" edge="1" parent="1" source="A07" target="A13" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A03-A13" edge="1" parent="1" source="A03" target="A13" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A08-A14" edge="1" parent="1" source="A08" target="A14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A13-A14" edge="1" parent="1" source="A13" target="A14" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A09-A15" edge="1" parent="1" source="A09" target="A15" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A14-A15" edge="1" parent="1" source="A14" target="A15" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A10-A16" edge="1" parent="1" source="A10" target="A16" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A14-A16" edge="1" parent="1" source="A14" target="A16" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A15-A17" edge="1" parent="1" source="A15" target="A17" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A15-A18" edge="1" parent="1" source="A15" target="A18" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A16-A18" edge="1" parent="1" source="A16" target="A18" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A17-A18" edge="1" parent="1" source="A17" target="A18" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A18-A19" edge="1" parent="1" source="A18" target="A19" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A14-A20" edge="1" parent="1" source="A14" target="A20" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A12-A21" edge="1" parent="1" source="A12" target="A21" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A13-A21" edge="1" parent="1" source="A13" target="A21" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A06-A22" edge="1" parent="1" source="A06" target="A22" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A07-A22" edge="1" parent="1" source="A07" target="A22" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A12-A23" edge="1" parent="1" source="A12" target="A23" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A13-A23" edge="1" parent="1" source="A13" target="A23" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A23-A24" edge="1" parent="1" source="A23" target="A24" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A18-A25" edge="1" parent="1" source="A18" target="A25" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A20-A26" edge="1" parent="1" source="A20" target="A26" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A21-A26" edge="1" parent="1" source="A21" target="A26" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A07-A26" edge="1" parent="1" source="A07" target="A26" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A19-A27" edge="1" parent="1" source="A19" target="A27" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A22-A27" edge="1" parent="1" source="A22" target="A27" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A24-A27" edge="1" parent="1" source="A24" target="A27" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A25-A27" edge="1" parent="1" source="A25" target="A27" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A26-A27" edge="1" parent="1" source="A26" target="A27" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A10-A28" edge="1" parent="1" source="A10" target="A28" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A23-A28" edge="1" parent="1" source="A23" target="A28" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A26-A28" edge="1" parent="1" source="A26" target="A28" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A27-A29" edge="1" parent="1" source="A27" target="A29" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A28-A29" edge="1" parent="1" source="A28" target="A29" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A29-A30" edge="1" parent="1" source="A29" target="A30" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A25-A31" edge="1" parent="1" source="A25" target="A31" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A26-A31" edge="1" parent="1" source="A26" target="A31" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A24-A31" edge="1" parent="1" source="A24" target="A31" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A30-A32" edge="1" parent="1" source="A30" target="A32" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#c0392b;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A31-A32" edge="1" parent="1" source="A31" target="A32" style="edgeStyle=orthogonalEdgeStyle;endArrow=block;strokeColor=#aab4c0;strokeWidth=2;">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="A01" value="A01 · 42,67 ч&#10;Сбор и анализ требований&#10;ES 0 · резерв 0,00" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="80" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A02" value="A02 · 58,67 ч&#10;Архитектура и модель данных&#10;ES 42,67 · резерв 0,00" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="235" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A03" value="A03 · 82,67 ч&#10;Прототипы и дизайн&#10;ES 42,67 · резерв 118,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="235" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A04" value="A04 · 50,67 ч&#10;Каркас приложения и CI&#10;ES 101,33 · резерв 0,00" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="390" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A05" value="A05 · 92,00 ч&#10;Аккаунты и роли&#10;ES 152,00 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="545" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A06" value="A06 · 41,33 ч&#10;Профиль и настройки&#10;ES 244,00 · резерв 593,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="700" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A07" value="A07 · 101,33 ч&#10;Редактор курса и категории&#10;ES 244,00 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="700" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A08" value="A08 · 126,67 ч&#10;Редактор структуры и&#10;материалов&#10;ES 345,33 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="192.5" y="855" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A09" value="A09 · 84,00 ч&#10;Редактор тестовых заданий&#10;ES 472,00 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="335.0" y="1010" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A10" value="A10 · 169,33 ч&#10;Интеграция проверки кода&#10;ES 556,00 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="50.0" y="1165" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A11" value="A11 · 92,00 ч&#10;Каталог и поиск&#10;ES 345,33 · резерв 296,00" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="855" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A12" value="A12 · 50,67 ч&#10;Карточка курса&#10;ES 472,00 · резерв 261,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="1010" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A13" value="A13 · 66,67 ч&#10;Запись и кабинет учащегося&#10;ES 345,33 · резерв 138,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="855" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A14" value="A14 · 109,33 ч&#10;Проигрыватель учебных шагов&#10;ES 472,00 · резерв 78,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="905.0" y="1010" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A15" value="A15 · 82,67 ч&#10;Приём и проверка тестовых&#10;ответов&#10;ES 581,33 · резерв 78,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="335.0" y="1165" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A16" value="A16 · 85,33 ч&#10;Интерфейс решения задач на&#10;код&#10;ES 725,33 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="192.5" y="1320" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A17" value="A17 · 68,00 ч&#10;Проверка преподавателем&#10;ES 664,00 · резерв 78,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="1320" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A18" value="A18 · 68,00 ч&#10;Прогресс и начисление баллов&#10;ES 810,67 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="1475" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A19" value="A19 · 58,67 ч&#10;Выдача сертификатов&#10;ES 878,67 · резерв 9,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="1630" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A20" value="A20 · 66,67 ч&#10;Комментарии и ответы&#10;ES 581,33 · резерв 214,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="1165" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A21" value="A21 · 50,67 ч&#10;Отзывы и рейтинг&#10;ES 522,67 · резерв 289,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="905.0" y="1165" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A22" value="A22 · 68,00 ч&#10;Новости и уведомления&#10;ES 345,33 · резерв 533,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="1047.5" y="855" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A23" value="A23 · 110,67 ч&#10;Заказы и платежи&#10;ES 522,67 · резерв 261,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="1190.0" y="1165" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A24" value="A24 · 52,00 ч&#10;Цены и промокоды&#10;ES 633,33 · резерв 261,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="1320" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A25" value="A25 · 68,00 ч&#10;Отчёты преподавателя&#10;ES 878,67 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="1630" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A26" value="A26 · 66,67 ч&#10;Модерация и аудит&#10;ES 648,00 · резерв 214,67" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="1047.5" y="1320" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A27" value="A27 · 58,67 ч&#10;Проверка адаптивности и&#10;доступности&#10;ES 946,67 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="477.5" y="1785" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A28" value="A28 · 76,00 ч&#10;Безопасность интеграций&#10;ES 725,33 · резерв 204,00" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="1475" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A29" value="A29 · 109,33 ч&#10;Интеграционные и сквозные&#10;проверки&#10;ES 1 005,33 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="1940" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A30" value="A30 · 68,00 ч&#10;Нагрузка и оптимизация&#10;ES 1 114,67 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="2095" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A31" value="A31 · 50,67 ч&#10;Документация и&#10;эксплуатационные инструкции&#10;ES 946,67 · резерв 185,33" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#edf4fb;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="762.5" y="1785" width="260" height="96" />
+        </mxCell>
+        <mxCell id="A32" value="A32 · 52,00 ч&#10;Приёмка и выпуск&#10;ES 1 182,67 · резерв 0" vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#fde9e7;strokeColor=#64748b;fontSize=13;">
+          <mxGeometry as="geometry" x="620.0" y="2250" width="260" height="96" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
